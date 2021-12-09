@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/dbzara/static/js/main.f5a18339.chunk.js",
+    "main.js.map": "/dbzara/static/js/main.f5a18339.chunk.js.map",
+    "runtime-main.js": "/dbzara/static/js/runtime-main.ae91935f.js",
+    "runtime-main.js.map": "/dbzara/static/js/runtime-main.ae91935f.js.map",
+    "static/css/2.f10f449b.chunk.css": "/dbzara/static/css/2.f10f449b.chunk.css",
+    "static/js/2.1a14dcde.chunk.js": "/dbzara/static/js/2.1a14dcde.chunk.js",
+    "static/js/2.1a14dcde.chunk.js.map": "/dbzara/static/js/2.1a14dcde.chunk.js.map",
+    "index.html": "/dbzara/index.html",
+    "static/css/2.f10f449b.chunk.css.map": "/dbzara/static/css/2.f10f449b.chunk.css.map",
+    "static/js/2.1a14dcde.chunk.js.LICENSE.txt": "/dbzara/static/js/2.1a14dcde.chunk.js.LICENSE.txt",
+    "static/media/logo.28516786.svg": "/dbzara/static/media/logo.28516786.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae91935f.js",
+    "static/css/2.f10f449b.chunk.css",
+    "static/js/2.1a14dcde.chunk.js",
+    "static/js/main.f5a18339.chunk.js"
+  ]
+}
